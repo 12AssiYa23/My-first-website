@@ -1,0 +1,7 @@
+F:\lit\01.12\01.12.task1\bin\Debug\01.12.task1.exe.config
+F:\lit\01.12\01.12.task1\bin\Debug\01.12.task1.exe
+F:\lit\01.12\01.12.task1\bin\Debug\01.12.task1.pdb
+F:\lit\01.12\01.12.task1\obj\Debug\01.12.task1.csproj.AssemblyReference.cache
+F:\lit\01.12\01.12.task1\obj\Debug\01.12.task1.csproj.CoreCompileInputs.cache
+F:\lit\01.12\01.12.task1\obj\Debug\01.12.task1.exe
+F:\lit\01.12\01.12.task1\obj\Debug\01.12.task1.pdb
